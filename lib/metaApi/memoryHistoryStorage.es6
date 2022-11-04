@@ -2,7 +2,7 @@
 
 import HistoryStorage from './historyStorage';
 import HistoryDatabase from './historyDatabase/index';
-import {AVLTree} from 'binary-search-tree';
+import {AVLTree} from '@verluci/binary-search-tree';
 import LoggerManager from '../logger';
 
 /**
